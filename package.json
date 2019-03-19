@@ -1,0 +1,26 @@
+{
+  "name": "email-designs",
+  "version": "1.0.0",
+  "description": "React website to display responsive html email templates and provide an option for visitors to send a test email to their desired address",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvld/email-designs.git"
+  },
+  "keywords": [
+    "html",
+    "email",
+    "marketing",
+    "responsive",
+    "design"
+  ],
+  "author": "Niko Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvld/email-designs/issues"
+  },
+  "homepage": "https://github.com/dvld/email-designs#readme"
+}
